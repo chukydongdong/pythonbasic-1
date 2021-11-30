@@ -1,0 +1,65 @@
+ist = [1,5,3,6]
+length = len(list)
+print(length)
+
+과목=['국어','수학','영어','과학']
+print(과목)
+
+rainbow=['빨강','주황','노랑','초록','파랑','남색','보라']
+first_color = rainbow[0]
+print('무지개의 첫번째 색은 {}이다'.format(firs
+list = [1,5,3,6]
+list[0] = 10
+print(list)
+
+list = [1,5,3,6]
+list.append(8)
+print(list)
+
+list = [1,5,3,6]
+list.insert(2,4)
+print(list)
+
+list = [1,5,3,6]
+del list [0]
+print(list)
+
+list = [1,5,3,6]
+list.remove(3)
+print(list)
+
+list = [1,2,3]
+list.append(4)
+print(list)
+
+list = [1,2,3,5]
+list.insert(3,4)
+print(list)
+
+list = [1,2,3]
+del list[1]
+print(list)
+
+list = [1,2,3]
+list.remove
+print(list)
+
+list = [1,2,3]
+list[1] = 10
+print
+
+
+음식=('떡볶이','햄버거','피자','김밥')
+print(음식)
+
+rainbow=('빨강','주황','노랑','초롱','파랑','남색','보라')
+first = rainbow[0]
+print('무지개의 첫번째 색은 {}이다'.format(first_color) )
+
+rainbow=('빨강','주황','노랑','초롱','파랑','남색','보라')
+last_color = rainbow[0]
+print('무지개의 마지막 색은 {}이다'.format(last_color) )
+
+data = input("1,2,3을 입력해주세요. ")
+t = ('주먹','가위','보')
+
